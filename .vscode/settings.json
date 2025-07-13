@@ -1,13 +1,13 @@
-// {
-//   "files.exclude": {
-//     ".vscode": true,
-//     "DatabaseUtilities": true,
-//     "LoggingUtilities": true,
-//     "ServerUtilities": true,
-//     "website/clientUtilities.ts": true,
-//     ".gitignore": true,
-//     "README.md": true,
-//     "tsconfig.json": true,
-//     "**/*.js": true,
-//   }
-// }
+{
+  "files.exclude": {
+    ".vscode": true,
+    "DatabaseUtilities": true,
+    "LoggingUtilities": true,
+    "ServerUtilities": true,
+    "website/clientUtilities.ts": true,
+    ".gitignore": true,
+    "README.md": true,
+    "tsconfig.json": true,
+    "**/*.js": true
+  }
+}
