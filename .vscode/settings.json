@@ -11,7 +11,7 @@
     "tsconfig.json": true,
     "**/*.js": true,
     "bin": true,
-    "'obj": true,
+    "obj": true,
     "Project.csproj": true
   }
 }
