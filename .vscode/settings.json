@@ -9,6 +9,9 @@
     ".sync-config.yml": true,
     "README.md": true,
     "tsconfig.json": true,
-    "**/*.js": true
+    "**/*.js": true,
+    "bin": true,
+    "'obj": true,
+    "Project.csproj": true
   }
 }
