@@ -6,6 +6,7 @@
     "ServerUtilities": true,
     "website/clientUtilities.ts": true,
     ".gitignore": true,
+    ".sync-config.yml": true,
     "README.md": true,
     "tsconfig.json": true,
     "**/*.js": true
